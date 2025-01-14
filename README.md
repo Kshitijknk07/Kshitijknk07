@@ -11,11 +11,11 @@
 
 ## 🚀 Current Focus
 
-- 📚 Getting Started With Data Structures & Algorithms
-- 💻 Building projects to improve problem-solving skills and apply knowledge practically.
-- 🌱 Exploring Backend Development (GoLang, Django)
-- 🔍 Diving into Cloud Computing, DevOps technologies (Docker, Kubernetes, Terraform)
-- 💡 Actively seeking collaboration opportunities
+- 📚 **Diving Deep into Data Structures and Algorithms**: Strengthening foundational knowledge.
+- 💻 **Building Projects**: Improving problem-solving skills and applying knowledge practically.
+- 🌱 **Backend Development**: Exploring Node.js, GoLang, and starting with a bit of Rust.
+- 📊 **Performance Observation**: Learning Grafana for monitoring and visualization.
+- 💡 **Seeking Collaboration**: Open to opportunities for working together and growing.
 
 ## 💻 Technical Skills
 
