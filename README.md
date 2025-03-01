@@ -2,24 +2,30 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=50&duration=4000&pause=1000&color=FF6347&center=true&vCenter=true&width=800&height=100&lines=Kshitij+Narayan+Kulkarni;" alt="Typing SVG" />
 </div>
 
-## 🎓 Education
+---
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering
-- 📍 Based in India
-- 🌱 Focusing on Full Stack Development, Data Structures, and Algorithms
-- 🎯 Expected Graduation: 2026
+# 🎓 Education
 
-## 🚀 Current Focus
+- 🎓 **Pursuing B.Tech in Computer Science Engineering**
+- 📍 **Based in India**
+- 🌱 **Focusing on Full Stack Development, Data Structures, and Algorithms**
+- 🎯 **Expected Graduation**: 2026
 
-- 📚 **Diving Deep into Data Structures and Algorithms**: Strengthening foundational knowledge.
-- 💻 **Building Projects**: Improving problem-solving skills and applying knowledge practically.
-- 🌱 **Backend Development**: Exploring Node.js, GoLang, and starting with a bit of Rust.
-- 📊 **Performance Observation**: Learning Grafana for monitoring and visualization.
-- 💡 **Seeking Collaboration**: Open to opportunities for working together and growing.
+---
 
-## 💻 Technical Skills
+# 🚀 Current Focus
 
-### Programming Languages
+- 📚 **Deep Diving into Data Structures and Algorithms**: Strengthening my problem-solving foundations.
+- 💻 **Building Projects**: Practical application of knowledge and improving my skills.
+- 🌱 **Backend Development**: Exploring **Node.js**, **GoLang**, and diving into **Rust**.
+- 📊 **Performance Monitoring**: Learning **Grafana** for monitoring and visualization.
+- 💡 **Collaboration & Growth**: Always seeking opportunities for teamwork and collaboration.
+
+---
+
+# 💻 Technical Skills
+
+### 🚀 **Programming Languages**
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -28,7 +34,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
 
-### Frameworks & Backend Technologies
+### ⚙️ **Frameworks & Backend Technologies**
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -38,14 +44,14 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
-### Databases & Cloud
+### 🗄️ **Databases & Cloud Technologies**
 <div align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-### DevOps Tools & CI/CD
+### 🔧 **DevOps Tools & CI/CD**
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -56,14 +62,16 @@
   <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white" />
 </div>
 
-### Tools & Version Control
+### 🛠️ **Tools & Version Control**
 <div align="left">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
-## 🤝 Let's Connect
+---
+
+# 🤝 Let's Connect
 
 <div align="left">
   <a href="mailto:knk200407@gmail.com">
