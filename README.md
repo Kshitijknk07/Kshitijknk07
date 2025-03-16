@@ -4,28 +4,26 @@
 
 ---
 
-# 🎓 Education
-
-- 🎓 **Pursuing B.Tech in Computer Science Engineering**
-- 📍 **Based in India**
-- 🌱 **Focusing on Full Stack Development, Data Structures, and Algorithms**
-- 🎯 **Expected Graduation**: 2026
-
----
-
-# 🚀 Current Focus
-
-- 📚 **Deep Diving into Data Structures and Algorithms**: Strengthening my problem-solving foundations.
-- 💻 **Building Projects**: Practical application of knowledge and improving my skills.
-- 🌱 **Backend Development**: Exploring **Node.js**, **GoLang**, and diving into **Rust**.
-- 📊 **Performance Monitoring**: Learning **Grafana** for monitoring and visualization.
-- 💡 **Collaboration & Growth**: Always seeking opportunities for teamwork and collaboration.
+## 🎓 **Education**
+- **Pursuing B.Tech in Computer Science Engineering**  
+  📍 Based in India  
+  🌱 Focusing on **Full Stack Development**, **Data Structures**, and **Algorithms**  
+  🎯 **Expected Graduation**: 2026  
 
 ---
 
-# 💻 Technical Skills
+## 🚀 **Current Focus**
+- 📚 **Deep Diving into Data Structures and Algorithms**: Strengthening my problem-solving foundations.  
+- 💻 **Building Projects**: Practical application of knowledge and improving my skills.  
+- 🌱 **Backend Development**: Exploring **Node.js**, **GoLang**, and diving into **Rust**.  
+- 📊 **Performance Monitoring**: Learning **Grafana** for monitoring and visualization.  
+- 💡 **Collaboration & Growth**: Always seeking opportunities for teamwork and collaboration.  
 
-### 🚀 **Programming Languages**
+---
+
+## 💻 **Technical Skills**
+
+### 🛠️ **Programming Languages**
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -70,8 +68,7 @@
 
 ---
 
-# 🤝 Let's Connect
-
+## 🤝 **Let's Connect**
 <div align="left">
   <a href="mailto:knk200407@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -84,7 +81,7 @@
 ---
 
 <div align="center">
-  <b>💡 Open to Learning | 🤝 Ready to Collaborate | 🎯 Focused on Growth</b>
-  <br>
-  <i>Let's connect and create something amazing together!</i>
+  <b>💡 Open to Learning | 🤝 Ready to Collaborate | 🎯 Focused on Growth</b>  
+  <br>  
+  <i>Let's connect and create something amazing together!</i>  
 </div>
