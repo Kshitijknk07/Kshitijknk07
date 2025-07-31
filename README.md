@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4945f162-8d10-4fc7-998f-c172bd482722" alt="Kshitij Avatar" width="180" style="border-radius: 50%;" />
-</p>
 
 # 💫 About Me
 
